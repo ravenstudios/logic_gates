@@ -1,0 +1,13 @@
+#and_gate{
+  width: 20%;
+  background-color: black;
+
+}
+
+.input{
+  background-color: white;
+}
+
+.output{
+  background-color: white;
+}
